@@ -1,5 +1,7 @@
 # Welcome to the Python Guild!
 
+[![Run on Repl.it](https://repl.it/badge/github/twilio/starter-python)](https://repl.it/github/twilio/starter-python)
+
 As members of the Python guild, you will be working through the challenges of TwilioQuest using the Python programming language.  This project is pre-configured to do some interesting Twilio stuff using Python and the [Flask](http://flask.pocoo.org/) web framework.
 
 ## Setting Up
